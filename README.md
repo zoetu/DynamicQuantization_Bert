@@ -1,0 +1,1 @@
+Dynamic Quantization_Bert from pytorh tutorial [https://pytorch.org/tutorials/intermediate/dynamic_quantization_bert_tutorial.html]
